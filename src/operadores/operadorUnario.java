@@ -1,5 +1,5 @@
 package operadores;
-public class incremento {
+public class operadorUnario {
     public static void main(String[] args) {
         int numero = 5;
         // numero ++; 
