@@ -15,23 +15,23 @@ public class operadoresTernario {
 //EXEMPLO DE CONDICIONAL UTILIZANDO UMA ESTRUTURA IF/ELSE
 //MESMA CONDICIONAL, MAS DESSA VEZ, UTILIZANDO O OPERADOR CONDICIONAL TERNÁRIO
 
-/* Podemos fazer o código dessa forma:
-        int a, b;
-        a = 5;
-        b = 6;
-        String resultado = "";
-        if(a==b)
-            resultado = "verdadeiro";
-        else
-            resultado = "falso";
-        System.out.println(resultado);
+//Podemos fazer o código dessa forma:
+      //  int a, b;
+      //  a = 5;
+      //  b = 6;
+      //  String resultado = "";
+      //  if(a==b)
+       //     resultado = "verdadeiro";
+       // else
+       //     resultado = "falso";
+       // System.out.println(resultado);
 
-        Mas essa opção é uma forma abreviada:
+       // Mas essa opção é uma forma abreviada:
 
-        int a, b;
-        a = 5;
-        b = 6;
-        String resultado = (a==b) ? "verdadeiro" : "false";
-        System.out.println(resultado);
+      //  int a, b;
+      //  a = 5;
+      //  b = 6;
+      //  String resultado = (a==b) ? "verdadeiro" : "false";
+      //  System.out.println(resultado);
 
     
