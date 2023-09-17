@@ -1,4 +1,4 @@
-package Documentacao;
+package documentacao;
 /**
 * <h1>Calculadora</h1>
 * A Calculadora realiza operações matemáticas entre números inteiros
