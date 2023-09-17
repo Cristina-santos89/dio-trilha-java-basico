@@ -1,5 +1,5 @@
 package operadores;
-public class operadoresRelacionais {
+public class OperadoresRelacionais {
     public static void main(String[] args) {
 
         int numero1 = 1;

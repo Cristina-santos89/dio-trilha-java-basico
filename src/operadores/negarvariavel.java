@@ -1,5 +1,5 @@
 package operadores;
-public class negarvariavel {
+public class NegarVariavel {
 public static void main(String[] args){
     //inverter o valor da variavel do tipo boleana
     boolean variavel = true;

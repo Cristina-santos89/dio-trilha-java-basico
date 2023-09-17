@@ -1,5 +1,5 @@
 package operadores;
-public class operadoresTernario {
+public class OperadoresTernario {
     public static void main(String[] args) {
         int a, b;
         a = 6;
