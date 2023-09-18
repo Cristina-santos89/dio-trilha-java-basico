@@ -4,7 +4,7 @@ public class CaixaEletronicoDois {
 
         double saldo = 25.0;
         double valorSolicitado = 22.0;
- 
+        // quando tiver mais de uma instrução tem que inserir dentro {}. Ex: if
         if(valorSolicitado < saldo){
 
             saldo = saldo - valorSolicitado;
